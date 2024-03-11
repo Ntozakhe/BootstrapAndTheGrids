@@ -6,7 +6,7 @@ main>.container {
     position: sticky;
     left: 0;
     bottom: 0;
-    width: 100%;
+    width: 160%;
 }
 
 .homeText {
@@ -27,4 +27,9 @@ main>.container {
 
 .minHeight{
     min-height: 80vh;
+}
+
+main>.container-fluid{
+    padding-top: 100px;
+    padding-bottom: 60px;
 }
